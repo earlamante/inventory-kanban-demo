@@ -1,0 +1,72 @@
+{
+  "storage_a": [
+    {
+      "id": 1,
+      "img": "https://cdn.dribbble.com/users/2118692/screenshots/13914588/product-samples-1_4x.png",
+      "name": "Makeup",
+      "qty": 100
+    },
+    {
+      "id": 2,
+      "img": "https://greendroprecycling.com/wp-content/uploads/2017/04/GreenDrop_Station_Aluminum_Can_Coke.jpg",
+      "name": "Coke",
+      "qty": 40
+    },
+    {
+      "id": 3,
+      "img": "https://greendroprecycling.com/wp-content/uploads/2017/04/GreenDrop_Station_Aluminum_Can_Pepsi.jpg",
+      "name": "Pepsi",
+      "qty": 60
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/736x/da/1c/a2/da1ca28c961d8c035bac1cc480c1e8b3.jpg",
+      "name": "Brownie",
+      "qty": 10
+    },
+    {
+      "id": 5,
+      "img": "https://www.pngitem.com/pimgs/m/247-2474128_packaging-design-sample-from-package-design-company-sample.png",
+      "name": "Travel Kit",
+      "qty": 50
+    }],
+  "storage_b": [
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAzC_VTg2ThQ42dCpD-tiSNyQSC10TCPrdQ&usqp=CAU",
+      "name": "Camera",
+      "qty": 5
+    },
+    {
+      "id": 7,
+      "img": "https://thumbs.dreamstime.com/z/camouflage-t-shirt-background-product-mockup-digital-pixel-camo-front-sample-vector-illustration-77811762.jpg",
+      "name": "T-Shirt",
+      "qty": 1000
+    }],
+  "storage_c": [
+    {
+      "id": 8,
+      "img": "https://cdn3d.iconscout.com/3d/premium/thumb/young-girl-experiments-with-chemical-tube-set-10137470-8382411.png?f=webp",
+      "name": "Chemistry set",
+      "qty": 2
+    }],
+  "storage_d": [
+    {
+      "id": 9,
+      "img": "https://www.productsamples.com/wp-content/uploads/2021/10/il-box.png",
+      "name": "Bundled items",
+      "qty": 200
+    },
+    {
+      "id": 10,
+      "img": "https://static.vecteezy.com/system/resources/previews/002/690/342/original/nail-polish-with-splash-on-a-white-background-cosmetic-product-template-for-advertisement-magazine-product-sample-illustration-free-vector.jpg",
+      "name": "Manicure",
+      "qty": 500
+    },
+    {
+      "id": 11,
+      "img": "https://miro.medium.com/v2/resize:fit:1400/0*0pFSdP0kXS1tup_E",
+      "name": "Robot",
+      "qty": 1
+    }]
+}
